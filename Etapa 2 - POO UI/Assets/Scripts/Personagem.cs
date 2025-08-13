@@ -2,11 +2,11 @@ using UnityEngine;
 
 public class Personagem : MonoBehaviour
 {
-    private int vidas;
-    private int energia;
-    private float velocidade;
+    [SerializeField] private int vidas;
+    [SerializeField] private int energia;
+    [SerializeField] private float velocidade;
 
-    public void seteVidas(int vidas)
+    public void setVidas(int vidas)
     {
         this.vidas = vidas;
     }
