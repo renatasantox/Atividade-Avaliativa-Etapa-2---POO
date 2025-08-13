@@ -49,7 +49,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -63,7 +63,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -234,7 +234,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      20240711dragonHorizontalCursorA-Sheet_0: -8264991098617365171
+      20240711dragonHorizontalCursorA-Sheet_1: -8865431207387135179
+      20240711dragonHorizontalCursorA-Sheet_2: 1622009348320624430
+      20240711dragonHorizontalCursorA-Sheet_3: 1991847655617835818
+      20240711dragonHorizontalCursorA-Sheet_4: -8032542663737537215
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
